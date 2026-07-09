@@ -27,9 +27,8 @@
 - [zabbix-telegram-router](https://github.com/mrklv01/zabbix-telegram-router) —
   маршрутизация алертов Zabbix в Telegram-топики на основе тегов, с резервным
   разделом по умолчанию.
-- [graylog-windows-security-detections](https://github.com/mrklv01/graylog-windows-security-detections) —
-  каталог детектов Windows Security (неудачные входы, блокировки, просроченные
-  пароли) и разбор кейса с потерей статистики из-за локализации ОС.
+- [graylog-windows-security-detections](https://github.com/mrklv01/graylog-windows-security-detections) — каталог детектов Windows Security в Graylog:
+  неудачные входы, блокировки учётных записей, просроченные пароли (Event ID 4625/4740), с оповещением в Telegram.
 - [master-hr-predictive-analytics](https://github.com/mrklv01/master-hr-predictive-analytics) —
   HR-Agent: инструмент предиктивного анализа рисков выгорания персонала по
   данным ITSM (Next.js + TypeScript, LLM-анализ, PDF-отчёты). Магистерская работа.
