@@ -15,9 +15,10 @@
 
 **Стек**
 
-- **Мониторинг:** Zabbix, Graylog, Winlogbeat
-- **Автоматизация:** PowerShell, Windows Server, Active Directory
-- **Изучаю / внедряю:** Grafana (визуализация и дашборды)
+* Мониторинг: Zabbix, Graylog, Winlogbeat, SNMP
+* Автоматизация: PowerShell, Windows Server, Active Directory, Bash
+* Инфраструктура и безопасность: Microsoft Exchange, FreePBX/Asterisk, Nginx, Kaspersky Security Center, SSL/TLS
+* Изучаю / внедряю: Grafana (визуализация и дашборды), Docker
 
 **Проекты**
 
