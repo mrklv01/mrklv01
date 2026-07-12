@@ -29,7 +29,7 @@
 - [monitoring-stand](https://github.com/mrklv01/monitoring-stand) — стенд
   мониторинга Prometheus + Grafana + Alertmanager в Docker, в двух вариантах
   (Windows + Linux VPS): конфигурация как код (provisioning), алерты в Telegram
-  с HTML-шаблонами, служебные порты закрыты от интернета (SSH-туннели).
+  с HTML-шаблонами, служебные порты закрыты от интернета.
 - [graylog-windows-security-detections](https://github.com/mrklv01/graylog-windows-security-detections) —
   каталог детектов Windows Security в Graylog: неудачные входы, блокировки
   учётных записей, просроченные пароли (Event ID 4625/4740), с оповещением
