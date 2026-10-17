@@ -1,4 +1,4 @@
-<h1 align="center">Denis Prudnikov</h1>
+<h1 align="center">Denis</h1>
 <h3 align="center">🖥️ Monitoring & Infrastructure Engineer · Astana, Kazakhstan</h3>
 <p align="center"><i>"If it isn't monitored, it isn't in production."</i></p>
 
