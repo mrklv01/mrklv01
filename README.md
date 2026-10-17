@@ -1,10 +1,15 @@
-# Hi there, I'm Denis 👋
+<h1 align="center">Denis Prudnikov</h1>
+<h3 align="center">🖥️ Monitoring & Infrastructure Engineer · Astana, Kazakhstan</h3>
+<p align="center"><i>"If it isn't monitored, it isn't in production."</i></p>
 
-## Monitoring & Infrastructure Engineer
+---
 
-I monitor and maintain IT infrastructure for a large enterprise client: servers, services, logs and security events. I investigate incidents down to the root cause, not just the symptoms, and write tools that remove manual routine from support and operations.
+## 👨‍💻 About Me
 
-My primary focus is reliable monitoring, actionable alerting and automation that makes infrastructure predictable.
+* Keeping enterprise infrastructure observable: servers, services, logs and security events
+* Digging into incidents down to the root cause, not just the symptoms
+* Turning manual support routine into scripts, bots and alerts
+* Moving deeper into Linux administration, SIEM and observability
 
 ---
 
